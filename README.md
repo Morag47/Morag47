@@ -46,14 +46,19 @@ class AndresMora:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,mysql,powerbi,pandas,numpy,matplotlib,git,github,jupyter,js,nodejs&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=py,mysql,git,github,js,nodejs&theme=dark" alt="Tech stack" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/SQL-2f81f7?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/SQL-2f81f7?style=for-the-badge&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Query" />
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX" />
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black" alt="DAX" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 
 </div>
 
@@ -63,35 +68,39 @@ class AndresMora:
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Morag47/Adidas-Dahboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Morag47&repo=Adidas-Dahboard&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=58a6ff" alt="Adidas Dashboard" />
-      </a>
-      <br/>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Morag47/Adidas-Dahboard"><img src="https://img.shields.io/badge/Adidas_Dashboard-Power_BI-F2C811?style=for-the-badge&labelColor=0d1117" alt="Adidas_Dashboard" /></a>
+      <br/><br/>
       <sub><b>Power BI</b> dashboard analysing Adidas sales, profit and performance by region and retailer.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/DAX-2f81f7?style=flat-square" alt="DAX" />
+      <a href="https://github.com/Morag47/Adidas-Dahboard"><img src="https://img.shields.io/badge/View_repo-%E2%86%92-30363d?style=flat-square&labelColor=0d1117" alt="View repo" /></a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Morag47/Online-Retail-II">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Morag47&repo=Online-Retail-II&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=58a6ff" alt="Online Retail II" />
-      </a>
-      <br/>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Morag47/Online-Retail-II"><img src="https://img.shields.io/badge/Online_Retail_II-RFM_Segmentation-3776AB?style=for-the-badge&labelColor=0d1117" alt="Online_Retail_II" /></a>
+      <br/><br/>
       <sub><b>RFM customer segmentation</b> in Python to find loyal, at-risk and high-value customers.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+      <a href="https://github.com/Morag47/Online-Retail-II"><img src="https://img.shields.io/badge/View_repo-%E2%86%92-30363d?style=flat-square&labelColor=0d1117" alt="View repo" /></a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Morag47/Data-Cleaning">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Morag47&repo=Data-Cleaning&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=58a6ff" alt="Data Cleaning" />
-      </a>
-      <br/>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Morag47/Data-Cleaning"><img src="https://img.shields.io/badge/Data_Cleaning-Retail_Sales-150458?style=for-the-badge&labelColor=0d1117" alt="Data_Cleaning" /></a>
+      <br/><br/>
       <sub><b>Data cleaning</b> of retail sales data from Kaggle with Python.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+      <a href="https://github.com/Morag47/Data-Cleaning"><img src="https://img.shields.io/badge/View_repo-%E2%86%92-30363d?style=flat-square&labelColor=0d1117" alt="View repo" /></a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Morag47/Barbershop-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Morag47&repo=Barbershop-System&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=58a6ff" alt="Barbershop System" />
-      </a>
-      <br/>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Morag47/Barbershop-System"><img src="https://img.shields.io/badge/Barbershop_System-JavaScript-F7DF1E?style=for-the-badge&labelColor=0d1117" alt="Barbershop_System" /></a>
+      <br/><br/>
       <sub><b>Barbershop System</b> built with JavaScript.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/github/stars/Morag47/Barbershop-System?style=flat-square&labelColor=0d1117&color=2f81f7" alt="Stars" />
+      <a href="https://github.com/Morag47/Barbershop-System"><img src="https://img.shields.io/badge/View_repo-%E2%86%92-30363d?style=flat-square&labelColor=0d1117" alt="View repo" /></a>
     </td>
   </tr>
 </table>
@@ -102,16 +111,7 @@ class AndresMora:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Morag47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=2f81f7&include_all_commits=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morag47&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" alt="Top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Morag47&theme=tokyonight&hide_border=true&background=0d1117&ring=2f81f7&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Morag47&theme=nord&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
 
 <br/><br/>
 
